@@ -7,7 +7,8 @@ Test Template    test case
 
 *** Test Cases ***    csv
 
-E   xampp/htdocs/xampp/javascript/RobotHomework/E.csv
+E    C:/xampp/htdocs/xampp/javascript/RobotHomework/E.csv
+
 
 *** Keywords ***
 Test case
