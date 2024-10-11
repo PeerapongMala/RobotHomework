@@ -1,7 +1,7 @@
 *** Settings ***
-Resource    /Users/Jedit/Documents/CAMT_robot/homework/import.resource
-Variables   /Users/Jedit/Documents/CAMT_robot/homework/EEEEEEEEDATA.yml
-Variables   /Users/Jedit/Documents/CAMT_robot/homework/price.yml
+Resource    /xampp/htdocs/xampp/javascript/RobotHomework/import.resource
+Variables   /xampp/htdocs/xampp/javascript/RobotHomework/data.yml
+Variables   /xampp/htdocs/xampp/javascript/RobotHomework/price.yml
 
 Test Template    test case
 
