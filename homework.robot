@@ -7,7 +7,7 @@ Test Template    test case
 
 *** Test Cases ***    csv
 
-E   /Users/Jedit/Documents/CAMT_robot/homework/E.csv
+E   xampp/htdocs/xampp/javascript/RobotHomework/E.csv
 
 *** Keywords ***
 Test case
